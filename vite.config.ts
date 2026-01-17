@@ -8,7 +8,7 @@ export default defineConfig({
     port: 3000,
     strictPort: true,
     hmr: {
-      host: "65.2.146.147",
+      host: "3.110.166.80",
       protocol: "ws",
       port: 3000
     }
